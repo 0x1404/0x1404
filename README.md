@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @0x1404
+- Hi, I’m 0x1404. 
 - I’m interested in software development & overall engineering.
-- 🌱 I’m currently learning 
+- I’m currently learning Go, JS, PHP & MySQL.
+- I've done several tasks in Python, CSharp, JS, PHP, MySQL, Bash scripting & Golang.
