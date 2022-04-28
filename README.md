@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @0x1404
+- I’m interested in software development & overall engineering.
+- 🌱 I’m currently learning 
